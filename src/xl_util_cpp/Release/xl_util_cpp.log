@@ -1,0 +1,5 @@
+﻿  xl_util_cpp.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+     ライブラリ Release\xl_util_cpp.lib とオブジェクト Release\xl_util_cpp.exp を作成中
+  LINK : /LTCG が指定されましたが、コードの生成は必要ありません。リンク コマンド ラインから /LTCG を削除し、リンカーの性能を改善してください。
+  xl_util_cpp.vcxproj -> C:\Users\helporagon\xl_util\src\xl_util_cpp\Release\xl_util_cpp.dll

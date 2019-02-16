@@ -1,0 +1,13 @@
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\xl_util_cs.dll
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\xl_util_cs.pdb
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\ClosedXML.dll
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\ExcelNumberFormat.dll
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\FastMember.dll
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\ClosedXML.pdb
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\ClosedXML.xml
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\helporagon\xl_util\src\xl_util_cs\bin\Release\ExcelNumberFormat.xml
+C:\Users\helporagon\xl_util\src\xl_util_cs\obj\Release\xl_util_cs.csprojResolveAssemblyReference.cache
+C:\Users\helporagon\xl_util\src\xl_util_cs\obj\Release\xl_util_cs.dll
+C:\Users\helporagon\xl_util\src\xl_util_cs\obj\Release\xl_util_cs.pdb
